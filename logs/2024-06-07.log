@@ -1,0 +1,15 @@
+{"level":"info","timestamp":"2024-06-07T08:28:19.377+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:50","message":"Received shutdown signal. Gracefully stopping...","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T08:28:19.378+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:71","message":"Server Shutdown Completed","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T08:28:19.378+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:59","message":"Server has been closed gracefully","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T08:46:25.058+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:50","message":"Received shutdown signal. Gracefully stopping...","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T08:46:25.159+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:71","message":"Server Shutdown Completed","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T08:46:25.160+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:59","message":"Server has been closed gracefully","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T08:54:54.704+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:49","message":"Received shutdown signal. Gracefully stopping...","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T08:54:54.705+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:70","message":"Server Shutdown Completed","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T08:54:54.705+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:58","message":"Server has been closed gracefully","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T08:58:36.946+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:51","message":"Received shutdown signal. Gracefully stopping...","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T08:58:37.047+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:75","message":"Server Shutdown Completed","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T08:58:37.048+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:63","message":"Server has been closed gracefully","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T09:10:19.610+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:51","message":"Received shutdown signal. Gracefully stopping...","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T09:10:19.711+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:75","message":"Server Shutdown Completed","service-name":"app"}
+{"level":"info","timestamp":"2024-06-07T09:10:19.711+0700","caller":"/Users/ping/Desktop/reverse_proxy/server/server.go:63","message":"Server has been closed gracefully","service-name":"app"}
