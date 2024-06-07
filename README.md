@@ -8,7 +8,7 @@ pratice reverse proxy and load balancer
 - GIT
 - Docker
 - NGINX
-- GOLANG
+- GOLANG Framework Fiber
 
 # Setting
 ```
