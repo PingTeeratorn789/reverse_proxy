@@ -5,12 +5,16 @@ pratice reverse proxy and load balancer
 - [Download docker on your computer](https://docs.docker.com/get-docker/)
 
 # Stack
+- GIT
 - Docker
 - NGINX
 - GOLANG
 
 # Setting
 ```
+    cd ~/Desktop 
+    git clone https://github.com/PingTeeratorn789/reverse_proxy.git
+    cat .env.example > .env
     docker compose up -d --scale app=5
 ```
 # Reference
